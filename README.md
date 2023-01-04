@@ -1,15 +1,4 @@
-<li><a href="#">EC2 Linux LAMP Stack launch</a></li>
-
-</ul>
-      
-</div>
-    <div id="main"> <a name="TemplateInfo"></a>
-      <div class="box">
-        <h1>Welcome to my blog</h1>
-        <hr>
-        <p>Hi! My name is Chase DeCoster. This is my blog to document my progress in learning DevOps/Cloud technologies. I will be writing blog posts that will walk through my learning process while completing various projects. I hope you enjoy!</p>
-      </div>
-      
+    
 <div class="box">
         <h1>LAMP Stack Setup on EC2 Instance<span class="gray"> - January, 02, 2023</span></h1>
         <hr>
